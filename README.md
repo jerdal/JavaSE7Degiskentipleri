@@ -1,0 +1,1 @@
+# JavaSE7Degiskentipleri
